@@ -1,0 +1,1 @@
+can't give a gui because in provided sources they used wx module which was not able to install learn tkinter and then try to give gui
